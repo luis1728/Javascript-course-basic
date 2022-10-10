@@ -16,3 +16,5 @@ var persona = {
     edad: 30
 }
 persona
+
+console.log (persona);
